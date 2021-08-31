@@ -1,1 +1,6 @@
+# PyCharm files
+.idea/
+
+
+# Legacy content
 .DS_Store
