@@ -1,5 +1,23 @@
 # Python Crash Course
 
+## I am not the original owner. 
+
+Forked from https://github.com/systrauss/Python-Crash-Course. 
+
+In this branch I'm creating what I wish I had when I finished reading *Python Crash Course* by Eric Matthes first section, a quick way to go through the exercises again.
+Inspired by systrauss, websites like HackerRank and the book itself, I had the idea to create this repository.
+
+In here you will find folders for chapters and the exercises of that chapter, and pieces of code or text files to help you go through the book's exercises.
+Also, the resolution to the problems will sometimes be present in another folder called "example". The code here is mainly the code from the forked repository
+Right now I only made this "new feature" for chapters 1, 2 and 3, but I plan on doing so to all the chapters in the book.
+
+
+Thanks systrauss!!
+
+# --------------------------------------------------------------------------------------------------------------
+# original readme starts here
+# --------------------------------------------------------------------------------------------------------------
+
 ## If you are not the original owner
 
 Please feel free to look around. I am trying to develop my programming skills, so I can't promise you'll find anything good. 
