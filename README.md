@@ -15,7 +15,7 @@ Right now I only made this "new feature" for chapters 1, 2 and 3, but I plan on 
 Thanks systrauss!!
 
 # ------------------------------------------------------------------------------
-# original readme starts here
+original readme starts here
 
 
 ## If you are not the original owner
